@@ -1,0 +1,23 @@
+[
+  {
+    "name": "posts",
+    "path": "/posts",
+    "component": "C:\\\\Users\\\\Hp\\\\Desktop\\\\Datacose Task\\\\developer-vue-challenge\\\\src\\\\pages\\\\posts.vue",
+    "chunkName": "pages/posts",
+    "_name": "_0cf3a536"
+  },
+  {
+    "name": "todos",
+    "path": "/todos",
+    "component": "C:\\\\Users\\\\Hp\\\\Desktop\\\\Datacose Task\\\\developer-vue-challenge\\\\src\\\\pages\\\\todos.vue",
+    "chunkName": "pages/todos",
+    "_name": "_3bffad50"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Hp\\\\Desktop\\\\Datacose Task\\\\developer-vue-challenge\\\\src\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6463bab5"
+  }
+]
